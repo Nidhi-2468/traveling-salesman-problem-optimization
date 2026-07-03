@@ -1,0 +1,7 @@
+gurobipy
+ortools
+numpy
+pandas
+matplotlib
+folium
+jupyter
